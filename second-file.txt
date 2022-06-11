@@ -1,3 +1,0 @@
-This line was modified manually during conflicts resolution
-
-pushed with Vscode
